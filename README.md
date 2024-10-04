@@ -10,7 +10,7 @@ I'm a data enthusiast focused on **SQL development**, **PostgreSQL**, **SQLite**
   
 - **Tools**: VS Code, pgAdmin
   
-- **Cloud**: AWS (Database Migration Services)
+- **Cloud**: AWS 
   
 - **Version Control**: GitHub
   
