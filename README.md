@@ -27,5 +27,8 @@ I'm a data enthusiast focused on **SQL development**, **PostgreSQL**, **SQLite**
 ![VS Code Badge](https://img.shields.io/badge/VS%20Code-Editor-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-Version%20Control-informational?style=flat&logo=github&logoColor=white&color=181717)
 
+### 💻 Languages
+![Python Badge](https://img.shields.io/badge/Python-Expert-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+
 ### ☁️ Cloud
 ![AWS Badge](https://img.shields.io/badge/AWS-Cloud%20Platform-informational?style=flat&logo=amazon-aws&logoColor=white&color=FF9900)
