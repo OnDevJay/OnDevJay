@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋🏾 Hi, I'm Jay!
 
-<!--
-**OnDevJay/OnDevJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast focused on **SQL development**, **PostgreSQL**, **SQLite**, and **cloud database migration**. Passionate about optimizing and developing databases to help solve complex problems and improve efficiency.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- **Languages**: SQL, Python
+  
+- **Databases**: PostgreSQL, SQLite, MySQL
+  
+- **Tools**: VS Code, pgAdmin
+  
+- **Cloud**: AWS (Database Migration Services)
+  
+- **Version Control**: GitHub
+  
+  
+
+## 🚀 Skills
+
+### 🗄️ Databases
+![SQL Badge](https://img.shields.io/badge/SQL-Expert-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-Expert-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![SQLite Badge](https://img.shields.io/badge/SQLite-Expert-informational?style=flat&logo=sqlite&logoColor=white&color=blue)
+
+### 🛠️ Tools
+![VS Code Badge](https://img.shields.io/badge/VS%20Code-Editor-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+![GitHub Badge](https://img.shields.io/badge/GitHub-Version%20Control-informational?style=flat&logo=github&logoColor=white&color=181717)
+
+### ☁️ Cloud
+![AWS Badge](https://img.shields.io/badge/AWS-Cloud%20Platform-informational?style=flat&logo=amazon-aws&logoColor=white&color=FF9900)
