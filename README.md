@@ -10,8 +10,6 @@ I'm a data enthusiast focused on **SQL development**, **PostgreSQL**, **SQLite**
 
 - **Tools**: VS Code, pgAdmin, SQL Server Management Studio (SSMS)
 
-- **Cloud**: AWS
-
 - **Version Control**: GitHub
   
   
@@ -31,5 +29,4 @@ I'm a data enthusiast focused on **SQL development**, **PostgreSQL**, **SQLite**
 ![VS Code Badge](https://img.shields.io/badge/VS%20Code-Editor-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white&color=181717)
 
-### ☁️ Cloud
-![AWS Badge](https://img.shields.io/badge/AWS-Cloud%20Platform-informational?style=flat&logo=amazon-aws&logoColor=white&color=FF9900)
+
